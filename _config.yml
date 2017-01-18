@@ -12,7 +12,7 @@ timezone: 15092220675@163.com
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: http://blog.lzkzhiliang.com
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -71,4 +71,4 @@ theme: hexo-theme-yelog
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repository: git@github.com:example/liuzhenkn.github.io.git
+  repository: git@github.com:liuzhenkn/liuzhenkn.github.io.git

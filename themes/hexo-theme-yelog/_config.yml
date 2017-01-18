@@ -10,7 +10,7 @@ menu:
   主页: /
   所有文章: /archives/
   #随笔: /tags/随笔
-  标签云: /tags/
+  #标签云: /tags/
   关于我: /about/
 
 # Link to your avatar | 填写头像地址
@@ -98,7 +98,7 @@ disqus:
 
 duoshuo:
   on: true
-  domain:
+  domain: liuzhenkn
   # 是否开启多说评论，http://duoshuo.com/create-site/
   # 使用上面网址登陆你的多说，然后创建站点，在 domain 中填入你设定的域名前半部分
   # http://<要填的部分>.duoshuo.com (domain只填上<>里的内容，不要填整个网址)
@@ -181,13 +181,13 @@ tagcloud: true
 
 # Blogroll, Link exchange | 友情链接
 friends:
-#Hexo: https://hexo.io
-#GitHub: https://pages.github.com/
-#MOxFIVE: http://moxfive.xyz/
+  小忆: http://www.domeyi.com
+  Ymming: http://blog.ymming.com/
+  Waydrow: http://blog.waydrow.com
 #friends: false
 
 #是否开启“关于我”。
-aboutme: 一个努力学习中的前端开发工程师。
+aboutme: 一个努力学习中的前端开发工程师，金牛座，爱吃爱玩游戏，乐于接触新的知识。
 #aboutme: false
 
 # Open link in a new tab | 是否在新窗口打开链接
