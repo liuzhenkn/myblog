@@ -66,6 +66,7 @@ pagination_dir: page
 #theme: hexo-theme-yilia
 #theme: yilia
 theme: hexo-theme-yelog
+#theme: Xone
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html

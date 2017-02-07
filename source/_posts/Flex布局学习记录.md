@@ -5,7 +5,6 @@ tags:
 - Flex布局
 ---
 
-![](/images/20170123/1.png)
 
 ### 什么是Flex布局
 Flex是Flexible Box的缩写，翻译过来就是弹性布局的意思，采用Flex布局的元素，称为Flex容器（flex container）。它的所有子元素自动成为容器成员，称为Flex项目（flex item）。
