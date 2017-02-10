@@ -2,6 +2,7 @@
 title: 再读《JavaScript高级程序设计》(1)
 tags:
 - JavaScript
+- 读书笔记
 ---
 
 ### 为什么要再读
