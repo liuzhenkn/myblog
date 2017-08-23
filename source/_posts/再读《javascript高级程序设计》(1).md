@@ -1,5 +1,6 @@
 ---
 title: 再读《JavaScript高级程序设计》(1)
+date: 2017-02-20 00:00:00
 tags:
 - JavaScript
 - 读书笔记

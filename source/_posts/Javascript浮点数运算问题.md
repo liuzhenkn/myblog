@@ -1,5 +1,6 @@
 ---
 title: Javascript浮点数运算问题
+date: 2016-07-19 00:00:00
 tags:
 - javascript
 ---

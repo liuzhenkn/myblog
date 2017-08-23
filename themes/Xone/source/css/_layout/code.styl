@@ -1,17 +1,27 @@
 article .article-excerpt img,
 article .article-content img,
 article .featured-media img 
+  display block
   max-width 100%
   height auto
   margin 1rem auto
-article 
+article
+  ol
+    margin-left 10px  
+    li
+      list-style decimal
+  ul
+    margin-left 10px
+    li
+      list-style disc
   blockquote 
-    margin 0 2rem
+    margin 0 0rem
     padding-left 15px
     line-height 2rem
     border-left 2px solid #000
+    background #eee
     ol 
-      padding-left 10px
+      padding-left 10px        
   code 
     padding 2px 4px
     margin-left 2px
@@ -24,6 +34,7 @@ article
     line-height 1.8
     a 
       word-wrap break-word
+      border-bottom 1px solid #000
   .video-container 
     position relative
     padding-bottom 56.25%
@@ -99,8 +110,9 @@ article table td
 figure 
   &.highlight 
     background #fafafa
+    margin 1em 0;
     padding 1em
-    border-radius 6px
+    border-radius 5px
     line-height 1.6
     overflow auto
     position relative

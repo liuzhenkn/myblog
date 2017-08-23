@@ -1,5 +1,6 @@
 ---
 title: 如何使用Hexo搭建博客
+date: 2015-10-19 00:00:00
 tags:
 - blog
 - hexo

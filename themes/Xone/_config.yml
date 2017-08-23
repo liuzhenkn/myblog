@@ -6,50 +6,54 @@
 menu:
   主页: /
   归档: /archives/
-  关于: /about/
+  关于我: /about/
 
-# 填写头像地址
+# 填写头像地址,可以放在source/img下
 avatar: /img/avatar.jpg
 
-# 个人头像
-favicon: /img/site.png
+# 站点小图标地址,可以放在source/img下
+favicon: /img/xxx.png
 
-# 音乐插件
-music: false #显示/不显示插件 (true/false)
-musicAuto: open #colse 不自动播放
-musicRandom: open #colse 顺序播放  open 随机播放
-userID: 376083126 #网易主页个人ID
-musicName: 小忆博客播放器 #播放器名名称
-musicLrc: open #colse 歌词不显示  open显示歌词
-welcome: open #colse  关闭网站欢迎语     open打开
-musicTips: 很高兴您来了 #网站欢迎语
-
+# 是否开启音乐插件
+music: false
+# 音乐是否自动播放 colse 不自动播放
+musicAuto: open
+# 歌曲播放顺序 colse 顺序播放  open 随机播放
+musicRandom: open
+# 网易云个人主页ID 例如:376083126
+userID: 376083126
+# 播放器名称
+musicName: 小忆博客播放器
+# 歌词显示 colse 歌词不显示  open显示歌词
+musicLrc: open
+# 欢迎语
+welcome: open
+musicTips: 很高兴您来了
 # 站点公告
-notice: 欢迎来到我的博客~
-nowtime: true
+notice: 欢迎来到我的博客，这里是记录我个人学习及生活到地方，不定期写总结哈。
+# 显示当前时间
+nowtime: false
 
 # If your site' url is 'http://yoursite.com/blog', set root_url as '/blog/'
 # 网站若存放在子目录，请按上面格式填写
 # https://hexo.io/docs/configuration.html#URL
-root_url:
+root_url: 
 
 # Social info. Bar | 社交信息展示
 subnav:
   email: "mailto:15092220675@163.com"
-  #新浪微博: "sina weibo"
   github: "https://github.com/liuzhenkn"
-  #V2EX: "#"
-  #RSS: "/atom.xml"
-  zhihu: "https://www.zhihu.com/people/zhi-liang-78/activities"
-  #豆瓣: "douban"
-  jianshu: "http://www.jianshu.com/u/b1f831c69d75"
+  twitter: "https://github.com/liuzhenkn"
+  qq: "https://github.com/liuzhenkn"
 
+#fancybox插件,如需让图片不加载fancybox,请在图片中添加属性alt="ad"
+fancybox: true
 #顶置文章标题
-#toptitle: stylus学习笔记(长期更新)
+toptitle: 
 # 多说评论，开启true，关闭false。
 # duoshuo_name是指创建站点时，填写多说域名的第一部分
 duoshuo: true
-duoshuo_name: liuzhenkn
+duoshuo_name: liuzhenkun
 
 # 是否开启边栏多标签切换
 tagcloud: true
@@ -57,3 +61,5 @@ tagcloud: true
 # 友情链接
 friends:
   GitHub: https://github.com/racall
+  小忆博客: https://blog.domeyi.com
+

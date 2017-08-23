@@ -1,5 +1,6 @@
 ---
 title: Backbone.js入门整理
+date: 2017-01-24 00:00:00
 tags:
 - Backbone.js
 - 总结
