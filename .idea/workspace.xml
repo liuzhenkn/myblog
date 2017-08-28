@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="825cf886-b517-40bc-93e1-a4b71ae88c34" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_posts/论如何减少小错误.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/论如何减少小错误.md" afterPath="$PROJECT_DIR$/source/_posts/论如何减少小错误.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -33,7 +33,7 @@
         </leaf>
       </split-first>
       <split-second>
-        <leaf>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file leaf-file-name="Backbone入门整理.md" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/source/_posts/Backbone入门整理.md">
               <provider selected="true" editor-type-id="text-editor">
@@ -128,7 +128,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -189,6 +188,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -298,15 +298,16 @@
       <workItem from="1503462846549" duration="601000" />
       <workItem from="1503473375081" duration="21000" />
       <workItem from="1503888092011" duration="21000" />
-      <workItem from="1503890812865" duration="5544000" />
+      <workItem from="1503890812865" duration="5609000" />
+      <workItem from="1503901897252" duration="43000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13653000" />
+    <option name="totallyTimeSpent" value="13761000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-305" y="-1057" width="1920" height="1057" extended-state="0" />
+    <frame x="-305" y="-1057" width="1920" height="1057" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24960506" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
