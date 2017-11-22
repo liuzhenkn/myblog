@@ -13,8 +13,7 @@ Hello，欢迎访问我的博客以及来到这里来了解关于博主的一些
 好吧说正经的，OUC 2013级计科的一名学生，通过社团的引导走向了前端开发的路，自己学习前端也有2~3年了，自己也在为成为一名有能力有技术有思想的程序猿在不断努力！
 
 ### 兴趣爱好
-- ACG爱好者
-- 新知识的追求者
+- 努力中到Coder
 - 不合格的Designer
 - LOL白金手残
 - 没地方练剑的击剑爱好者
@@ -26,6 +25,6 @@ Hello，欢迎访问我的博客以及来到这里来了解关于博主的一些
 - Backbone.js
 - Vue.js
 - Node.js
-- 其他待学习
+- Others
 
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=26608941&auto=1&height=66"></iframe>
