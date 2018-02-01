@@ -3,10 +3,10 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 执凉's blog
-subtitle: 柳青大爷让换子标题
+title: zhenkunliu's blog
+subtitle: 知世故而不世故，善自嘲而不嘲人
 description:
-author: 执凉
+author: zhenkunliu
 language: zh-Hans
 timezone:
 
@@ -66,7 +66,7 @@ pagination_dir: page
 #theme: hexo-theme-yilia
 #theme: yilia
 #theme: hexo-theme-yelog
-theme: xone
+theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
