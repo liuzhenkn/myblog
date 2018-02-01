@@ -78,7 +78,8 @@ gulp.task('default',['less', 'jsUglify']);
 需要 gulp-connect 插件，配合 gulp.watch 监听文件变化，然后执行相应的 task，当然你需要在每个 task 的最后执行 connect.reload 来刷新页面。
 
 哈哈哈，反正就写了个简单 demo ,有兴趣可以参考。
-!(gulp-demo)[https://github.com/liuzhenkn/IT-FE-build]
+[gulp-demo](https://github.com/liuzhenkn/IT-FE-build)
+进阶可看[官网](https://www.gulpjs.com.cn/)
 
 
 #### 想法
