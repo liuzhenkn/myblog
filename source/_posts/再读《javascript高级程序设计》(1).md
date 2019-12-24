@@ -42,7 +42,7 @@ ECMAScript中的一切都严格区分大小写，标识符是指变量、函数�
 #### 数据类型
 ECMAScript中有六种数据类型，其中有五种简单数据类型(基本数据类型)：Undefined、Null、Boolean、Number、String，一种复杂数据类型Object。
 null表示一个空对象指针，所以使用typeof操作符时返回object，所以在定义变量将来准备保存对象时应该初始化为null。
-Number类型使用的是IEEE754格式来表示整数和浮点数，这也导致了浮点数值计算产生舍入误差问题，可以参考我以前写的文章[Javascript浮点数运算问题](http://blog.lzkzhiliang.com/2017/01/18/Javascript%E6%B5%AE%E7%82%B9%E6%95%B0%E8%BF%90%E7%AE%97%E9%97%AE%E9%A2%98/),所以不要测试某个特定浮点数。
+Number类型使用的是IEEE754格式来表示整数和浮点数，这也导致了浮点数值计算产生舍入误差问题，可以参考我以前写的文章[Javascript浮点数运算问题](http://liuzhenkn.github.io/2017/01/18/Javascript%E6%B5%AE%E7%82%B9%E6%95%B0%E8%BF%90%E7%AE%97%E9%97%AE%E9%A2%98/),所以不要测试某个特定浮点数。
 数值范围在大多数浏览器中是5e-324到1.7976931348623157e+308，超出范围就会转化为+-Infinity。
 
 #### 参数
