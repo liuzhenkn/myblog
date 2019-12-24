@@ -9,7 +9,7 @@ Hello，欢迎访问我的博客以及来到这里来了解关于我的一些信
 也希望自己能够养成经常写博客的习惯，也是一种促进自己去学习的方式。
 
 ### 关于我
-95年金牛男，至今单身(🤦‍
+95年金牛男，至今单身(🤦‍ （已于2019年脱单了哈哈哈哈👏）
 好吧说正经的，OUC 2013级计科的一名学生，通过社团的引导走向了前端开发的路，自己学习前端也有2~3年了，自己也在为成为一名有能力有技术有思想的 engineer 在不断努力！
 
 ### 兴趣爱好
@@ -20,11 +20,10 @@ Hello，欢迎访问我的博客以及来到这里来了解关于我的一些信
 - 没地方练剑的击剑爱好者
 
 ### 技能相关
-- HTML/CSS/JS
-- PhotoShop
-- Git
-- Backbone.js
-- Vue.js
-- Node.js
-- Angular React (can use)
+- html/css/js
+- photoShop
+- git
+- vue.js
+- node.js
+- angular react (can use)
 - gulp webpack (understand)
